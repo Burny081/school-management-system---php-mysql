@@ -4,5 +4,5 @@
       Student Management System
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; Bongni Tambe Nestor 2020.</strong> All rights reserved.
+    <strong>Copyright &copy; Bongni Tambe Nestor 2025.</strong> All rights reserved.
   </footer>
